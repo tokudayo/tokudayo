@@ -70,7 +70,7 @@ I do SWE things 🙄
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="96">
       <a>
         <img src="assets/node.png" width="48" height="48" alt="Node" />
       </a>
