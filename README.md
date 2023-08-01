@@ -68,7 +68,9 @@ I do SWE things 🙄
 
 > Tools, languages, and other things that I like to work with.
 
+<table>
   <tr>
+    <td>
       <a>
         <img src="assets/node.png" width="48" height="48" alt="Node" />
       </a>
