@@ -54,7 +54,7 @@ I do SWE things 🙄
     <a href="https://github.com/tokudayo">Github</a>.
   </li>
   <li>
-    📝 I <del>regulary</del> write articles on
+    📝 I <del>regularly</del> write articles on
     <a href="https://tokudayo.github.io">my blog</a>.
   </li>
   <li>
@@ -64,13 +64,11 @@ I do SWE things 🙄
   <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
   <tr>
-    <td align="center" width="96">
       <a>
         <img src="assets/node.png" width="48" height="48" alt="Node" />
       </a>
