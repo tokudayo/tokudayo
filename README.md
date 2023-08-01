@@ -8,23 +8,23 @@
       src="https://github.com/tokudayo/tokudayo/blob/main/assets/linkedin.png"
     />
   </a>
-  <a href="https://www.linkedin.com/in/20toduc01">
+  <a href="https://twitter.com/20toduc01">
     <img
-      alt="LinkedIn"
+      alt="Twitter"
       width="40px"
       src="https://github.com/tokudayo/tokudayo/blob/main/assets/twitter.png"
     />
   </a>
-  <a href="https://www.linkedin.com/in/20toduc01">
+  <a href="https://www.facebook.com/20toduc01/">
     <img
-      alt="LinkedIn"
+      alt="Facebook"
       width="40px"
       src="https://github.com/tokudayo/tokudayo/blob/main/assets/facebook.png"
     />
   </a>
-  <a href="https://www.linkedin.com/in/20toduc01">
+  <a href="https://discord.com/users/815233352952840235">
     <img
-      alt="LinkedIn"
+      alt="Discord"
       width="40px"
       src="https://github.com/tokudayo/tokudayo/blob/main/assets/discord.png"
     />
